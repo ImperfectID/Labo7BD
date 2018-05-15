@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LABO7BD</string>
+    <string name="lblRegistrar">Registrar Usuario</string>
+    <string name="lblConsultar">Modificar Usuario</string>
+    <string name="lblConsultarS">Consultar Lista de usuarios</string>
+
+    <string name="dui">Dui</string>
+    <string name="nombre">Nombre</string>
+
+
+</resources>
